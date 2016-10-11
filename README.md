@@ -32,7 +32,7 @@ otherwise the `authenticateFailed` is called instead.
 
  - **options**: Theming options for iOS.
  - **authenticateSuccess**: The callback that is passed the authenticated info.
- - **geolocationError**: (Optional) The callback that executes if authentication fails.
+ - **authenticateFailed**: The callback that executes if authentication fails.
 
 #### Example
 
